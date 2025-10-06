@@ -1,0 +1,25 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: hsl(48deg 95% 50%);
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#pokemonLogo{
+    width: 20%;
+    margin-top: 2%;
+}
+
+input{
+    margin: 2%;
+    border-radius: 5px;
+    text-align: center;
+}
+
+button{
+    border-radius: 20px;
+    color: whitesmoke;
+    background: hsl(220deg 54% 44%);
+}
