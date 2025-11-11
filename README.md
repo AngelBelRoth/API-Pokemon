@@ -1,23 +1,22 @@
-# Pokémon ー Catch 'em all
+# Pokémon ー catch 'em all
 
-> A RESTful API built to interact with Pokémon data from PokéAPI — ideal for developers building Pokédex apps, games, or data-intensive Pokémon visualisations.
+> RESTful APIs built to interact with Pokémon data from PokéAPI & pokemontcg.io </br> ideal for developers building Pokédex apps, games, or data-intensive Pokémon visualisations.
 
 ---
 
 ## Overview
 
-The **Pokémon ー Catch 'em all** project wraps key endpoints of the widely-used PokéAPI to provide simplified, consistent access to Pokémon data. Whether you’re building a frontend Pokédex, mobile app, or data-science tool, this service streamlines requests, handles caching/formatting, and makes integration easy.
+The **Pokémon ー catch 'em all** project wraps key endpoints of the widely-used PokéAPI to provide simplified, consistent access to Pokémon data. Whether you’re building a frontend Pokédex, mobile app, or data-science tool, this service streamlines requests, handles caching/formatting, and makes integration easy.
 
 ---
 
 ## Features
 
 - Fetch Pokémon by name or ID  
-- Get lists of Pokémon with pagination support  
+- Get Pokémon Card with pagination support  
 - Retrieve Pokémon types, abilities, stats  
 - Consistent JSON responses designed for frontend use  
 - Environment variable support (API keys, ports)  
-- Error handling and validation built-in  
 
 ---
 
