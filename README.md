@@ -1,22 +1,38 @@
-# 📊 Project: Complex API 
+# Pokémon ー Catch 'em all
 
-### Goal: Use data returned from one api to make a request to another api and display the data returned
+> A RESTful API built to interact with Pokémon data from PokéAPI — ideal for developers building Pokédex apps, games, or data-intensive Pokémon visualisations.
 
-### How to submit your code for review:
+---
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+## Overview
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+The **Pokémon ー Catch 'em all** project wraps key endpoints of the widely-used PokéAPI to provide simplified, consistent access to Pokémon data. Whether you’re building a frontend Pokédex, mobile app, or data-science tool, this service streamlines requests, handles caching/formatting, and makes integration easy.
+
+---
+
+## Features
+
+- Fetch Pokémon by name or ID  
+- Get lists of Pokémon with pagination support  
+- Retrieve Pokémon types, abilities, stats  
+- Consistent JSON responses designed for frontend use  
+- Environment variable support (API keys, ports)  
+- Error handling and validation built-in  
+
+---
+
+![api-Pokemon](https://github.com/user-attachments/assets/93ca1f06-f748-4580-a419-fe5321962be4)
+
+---
+
+## Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/AngelBelRoth/api-Pokemon.git
+
+# Navigate into the directory
+cd api-Pokemon
+
+# Install dependencies
+npm install
